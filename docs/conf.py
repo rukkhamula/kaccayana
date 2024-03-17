@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'Kaccayana'
+project = 'kaccayana'
 #copyright = '2023, Ven.Kaccayana'
 release = '1.0.0'
 
